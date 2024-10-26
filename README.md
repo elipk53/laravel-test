@@ -17,3 +17,6 @@ Token for api urls is set up in `.env` file `API_TOKEN=kanyequotes`. Correct API
 
 User: `test@example.com`
 Password: `123456`
+
+
+Also, code is covered with tests(Unit and Feature). Can be run with `php artisan test` command 
